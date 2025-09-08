@@ -1,12 +1,18 @@
 # Talabat Martech & Analytics Platform (Full)
 
-![Talabat](images.png) ![Braze](images/braze.png) ![BigQuery](images/bigquery.png) ![AWS S3](images/s3.png)
+![Talabat](images.png)
+
+![Braze & Google BigQuery](https://github.com/hajarkhalid/martech_retention_talabat/blob/main/BigQuery%20%26%20Braze.png?raw=true)
+
+![AWS S3](https://github.com/hajarkhalid/martech_retention_talabat/blob/main/AWS%20S3.png?raw=true)
+
+![dbt](https://github.com/hajarkhalid/martech_retention_talabat/blob/main/dbt.png?raw=true)
 
 **Opinionated, deployable scaffold for retention, CRM, growth, product analytics, and activation (Braze + Connected Content).**
 
 This repository provides a **production-ready framework** to manage Talabat’s lifecycle, growth, and product analytics while connecting to Braze campaigns and personalized content delivery. It combines **data ingestion, predictive analytics, connected content, and monitoring** into one cohesive stack.
 
----
+---  
 
 ## 🚀 Features
 
