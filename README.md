@@ -1,6 +1,6 @@
 # Talabat Martech & Analytics Platform (Full)
 
-![Talabat](images/talabat.png) ![Braze](images/braze.png) ![BigQuery](images/bigquery.png) ![AWS S3](images/s3.png)
+![Talabat](images.png) ![Braze](images/braze.png) ![BigQuery](images/bigquery.png) ![AWS S3](images/s3.png)
 
 **Opinionated, deployable scaffold for retention, CRM, growth, product analytics, and activation (Braze + Connected Content).**
 
