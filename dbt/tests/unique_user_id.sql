@@ -1,0 +1,1 @@
+select user_id, count(*) cnt from {{ ref('users') }} group by user_id having cnt>1;
